@@ -1,0 +1,92 @@
+body{
+    text-align:center;
+}
+#Me{
+    height:300px;
+    width:200px;
+    border-color:black;
+    border-style:outset;
+    border-width:7px;
+}
+#sec1{
+    background: linear-gradient(#34fa02 0%, #02f6fa 100%);
+    height: 500px;
+    padding: 50px;
+}
+#Name{
+    font-family: 'Bona Nova', serif;
+    color:blue;
+    text-align: center;
+    text-decoration:underline;
+}
+#sec2{
+    background: linear-gradient(#ffffff 0%, #000000 100%);
+    height: 600px;
+    padding: 50px;
+}
+#come{
+    font-style: italic;
+    color:blue;
+    text-decoration:underline;
+}
+#Dear{
+    color:lime;
+    text-align:left;
+}
+#BDay{
+    color:lime;
+}
+#sec3{
+    background:linear-gradient(#ffa200 0%, #ff1100 100%);
+    height:600px;
+    padding:50px;
+}
+.Yoink{
+    height:350px;
+    width:400px;
+}
+#sec4{
+    background:linear-gradient(#ff00dd 0%, #b300ff 100%);
+    height:600px;
+    padding:50px;
+}
+#bikaner{
+    color:blue;
+    font-style:italic;
+    text-decoration:underline;
+}
+#location{
+    color:blue;
+    font-style:italic;
+    text-decoration:underline;
+}
+.menu{
+    margin-left:-90px;
+    list-style:none;
+    position:fixed;
+    margin-top:0px;
+    top:0;
+    z-index:10;
+    background-color:Black;
+    width:100%;
+}
+.links{
+    display:inline;
+    padding:15px;
+    font-size:25px;
+    font-weight:bold;
+    color:white;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+a:hover{
+    font-size:20px;
+    text-decoration:underline;
+    color:red;
+}
+#invited{
+    width:300px;
+    height: 300px;
+}
